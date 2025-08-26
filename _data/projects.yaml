@@ -1,0 +1,24 @@
+projects:
+  - title: "ProxeGraph"
+    subtitle: "Scene Graph Generation Utilizing Proxemics for Smart Homes"
+    thumbnail: "assets/projects/2024_proxegraph/proxegraph_thumbnail.png"
+    url: "projects/2024_proxegraph.html"
+    selected: y
+
+  - title: "Multi-Modal Interface for Smart Device Control"
+    subtitle: "Prototype of a web based tool which enables user to control linked smart devices"
+    thumbnail: "assets/projects/2022_multi_modal_interface/multimodal-iface_thumbnail.png"
+    url: "projects/2022_multi_modal_interface.html"
+    selected: y
+
+  - title: "BuStop Framework"
+    subtitle: "Multi-modal Sensing to charecterize Bus-Stops"
+    thumbnail: "assets/projects/2022_bustop/bustop_thumbnail.png"
+    url: "projects/2022_bustop.html"
+    selected: y
+
+  - title: AnimaDex
+    subtitle: Pokédex - but for the real world animals.
+    thumbnail: "assets/projects/2020_animadex/animadex_thumbnail.png"
+    url: "projects/2020_animadex.html"
+    selected: n

@@ -1,0 +1,31 @@
+papers:
+
+  - title: "ProxeGraph: Scene Graph Generation Utilizing Proxemics for Smart Homes"
+    authors: "<b>Debaleen Das Spandan</b>, Razib Iqbal"
+    venue: "2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR)"
+    paper_pdf: "https://doi.org/10.1109/MIPR62202.2024.00024"
+    selected: y
+
+  - title: "Metamorphic Testing for Investigation of Context Recognition from Smart Home Voice Commands"
+    authors: "Fahima Hasan Athina, Jeniya Sultana, <b>Debaleen Das Spandan</b>, Razib Iqbal"
+    venue: "2024 7th Conference on Cloud and Internet of Things (CIoT)"
+    paper_pdf: "https://doi.org/10.1109/CIoT63799.2024.10757078"
+    selected: y
+
+  - title: "To Hack or Not to Hack? Connecting Cybersecurity, the IoT, and Smart Environments to K12 Learning Experiences"
+    authors: "2024 Shusmoy Chowdhury, <b>Debaleen Das Spandan</b>, Tara Bonebrake, Zachary Frantsen, Ajay Katangur"
+    venue: "World Congress in Computer Science, Computer Engineering & Applied Computing"
+    paper_pdf: "https://doi.org/10.1007/978-3-031-85930-4_28"
+    selected: y
+
+  - title: "Exploiting multi-modal contextual sensing for city-bus’s stay location characterization: Towards sub-60 seconds accurate arrival time prediction"
+    authors: "Ratna Mandal, Prasenjit Karmakar, Soumyajit Chatterjee, <b>Debaleen Das Spandan</b>, Shouvit Pradhan, Sujoy Saha, Sandip Chakraborty, Subrata Nandi"
+    venue: "2023 February, ACM Transactions on Internet of Things"
+    paper_pdf: "https://doi.org/10.1145/3549548"
+    selected: y
+
+  - title: "Can I take class in that classroom now? In the perspective of Air Quality"
+    authors: "Praveen Kumar Sharma, Debjit Chatterjee, <b>Debaleen Das Spandan</b>, Sujoy Saha"
+    venue: "2023 Proceedings of the 24th International Conference on Distributed Computing and Networking"
+    paper_pdf: "https://doi.org/10.1145/3571306.3571442"
+    selected: y
