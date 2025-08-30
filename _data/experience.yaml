@@ -2,33 +2,21 @@ experiences:
 
 - place: "Digital Monitoring Products"
   time: "Aug 2024 - now"
-  title: "Android Developer"
-  subtitle: "Software Engineering"
-  category: "work"
-
-- place: "Missouri State University"
-  time: "Fall 2022 - Summer 2024"
-  title: "MS Student"
-  subtitle: "Master of Science in Computer Science; MuSyC Lab"
-  category: "school"
-
-- place: "Missouri State University"
-  time: "Jun-Jul 2024"
-  title: "Graduate Research Assistant"
-  subtitle: "NSF RET: ROSE Grant"
+  title: "Software Engineer"
+  subtitle: "Mobile Software"
   category: "work"
 
 - place: "Missouri State University"
   time: "Aug 2022 - Jul 2024"
   title: "Graduate Assistant"
-  subtitle: "Computer Science Department"
+  subtitle: "Computer Science Department; NSF ROSE Grant"
   category: "work"
 
 - place: "Missouri State University"
-  time: "Jun-Aug 2023"
-  title: "Graduate Research Assistant"
-  subtitle: "UDE CODERS project & NSF RET: ROSE Grant"
-  category: "work"
+  time: "Fall 2022 - Summer 2024"
+  title: "MS Student"
+  subtitle: "Computer Science; MuSyC Lab"
+  category: "school"
 
 - place: "National Institute of Technology <br/> Durgapur"
   time: "Jun-Jul 2022"
@@ -37,15 +25,9 @@ experiences:
   category: "work"
 
 - place: "Cognizant"
-  time: "Sep 2021 - Jun 2022"
+  time: "Jan 2021 - Jun 2022"
   title: "Programmer Analyst Trainee"
   subtitle: "Software Engineering"
-  category: "work"
-
-- place: "Cognizant"
-  time: "Jan-Jun 2021"
-  title: "Intern"
-  subtitle: "Fullstack Software Engineering"
   category: "work"
 
 - place: "National Institute of Technology <br/> Durgapur"
